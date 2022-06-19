@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tieelstudio/static/css/main.8e79020c.css",
+    "main.js": "/tieelstudio/static/js/main.e395ae77.js",
+    "static/media/logo12.png": "/tieelstudio/static/media/logo12.ad3e2ac6cfcd5e284a85.png",
+    "static/media/main3.png": "/tieelstudio/static/media/main3.ab484942cedf43f5563d.png",
+    "static/media/coin1.png": "/tieelstudio/static/media/coin1.18f291229c16ece651db.png",
+    "static/media/biglogo.png": "/tieelstudio/static/media/biglogo.9671ef2528294ea7856c.png",
+    "static/media/coin2.png": "/tieelstudio/static/media/coin2.bbee5adbc3a77fb854ef.png",
+    "static/media/L1.png": "/tieelstudio/static/media/L1.810afca8857ba1dcfc11.png",
+    "static/media/L3.png": "/tieelstudio/static/media/L3.0211cc0eda6416636699.png",
+    "static/media/L2.png": "/tieelstudio/static/media/L2.c2f98e8bc237cb7ee45c.png",
+    "static/media/card.png": "/tieelstudio/static/media/card.624ac144f161d1f006cc.png",
+    "static/media/Logo666.png": "/tieelstudio/static/media/Logo666.d575ad28986f8ae93c06.png",
+    "index.html": "/tieelstudio/index.html",
+    "main.8e79020c.css.map": "/tieelstudio/static/css/main.8e79020c.css.map",
+    "main.e395ae77.js.map": "/tieelstudio/static/js/main.e395ae77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e79020c.css",
+    "static/js/main.e395ae77.js"
+  ]
+}
